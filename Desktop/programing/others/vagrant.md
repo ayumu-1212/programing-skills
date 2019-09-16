@@ -1,4 +1,6 @@
 # Vagrant
 
 ## vagrant reloadでも効かない時
-' vagrant reload --provision '
+```
+vagrant reload --provision
+```
